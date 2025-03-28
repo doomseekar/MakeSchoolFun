@@ -22,7 +22,7 @@ cheat.
 pc ver, creds are in the script.
 copy script
 open blooket
-inspect element (ctrl + i)
+inspect element (ctrl + shift + i)
 open console
 paste script
 type allow pasting
